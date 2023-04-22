@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.pink-bg {
+    background-color: #d67d80;
+    height: 100%;
+    width: 100%;
+    padding: 30px;
+    color: #120142;
+    background-size: cover;
+
+}
+
+.icon {
+    height: 75px;
+    width: 75px;
+    background-color: transparent;
+    padding-left: 2px;
+
+}
+
+.profile {
+    text-align: left;
+}
+
+.line {
+    background-color: #120142;
+    height: 2px;
+}
+
+
+
+.vert-line {
+    background-color: #120142;
+    width: 1px;
+}
+
+.head-one {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Roboto";
+    padding-right: 60px;
+    padding-left: 20px;
+}
+
+.vertical {
+    border-left: 4px solid #120142;
+    height: 170px;
+    position: absolute;
+
+
+}
+
+.horizontal-line {
+    background-color: #120142;
+    height: 4px;
+    margin-left: 100px;
+}
+
+.circle {
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+    border: 4px solid #120142;
+    margin-right: 30px;
+}
+
+.icon-one {
+    height: 70px;
+    width: 70px;
+    background-color: transparent;
+
+}
+
+.year {
+    font-size: 12px;
+
+    width: 170px;
+}
+
+.matter {
+    font-size: 12px;
+
+
+}
+
+.icon-three {
+    width: 100px;
+    height: 100px;
+}
+
+.list {
+    list-style-type: none;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.skills {
+    font-size: 15px;
+    width: 100px;
+    padding-left: 15px;
+    padding-top: 3px;
+}
+
+.skill-year {
+    font-size: 12px;
+}
+
+.skill-line {
+    margin-top: 30px;
+}
+
+.interest-two {
+    text-align: center;
+}
+
+.dot-size {
+    height: 60px;
+    width: 60px;
+}
+
+.square {
+    height: 12px;
+    width: 12px;
+    border-radius: 8px;
+    background-color: #120142;
+    margin-left: 10px;
+
+}
+
+.vertical-one {
+    border-left: 4px solid #120142;
+    height: 194px;
+    position: absolute;
+    margin-left: 15px;
+}
+
+.highlights {
+    font-weight: 600;
+}
+
+.icon-names {
+    padding-top: 3px;
+    font-size: 15px;
+}
+
+.hori-square {
+    background-color: #120142;
+    border-radius: 50px;
+    width: 90px;
+    height: 90px;
+}
+
+.icon-p {
+    height: 60px;
+    width: 60px;
+    background-color: transparent;
+    padding-left: 2px;
+
+}
+
+.icon-bulb {
+    height: 70px;
+    width: 70px;
+    background-color: transparent;
+    padding-left: 2px;
+
+}
+
+.icon-edu {
+    height: 60px;
+    width: 60px;
+    background-color: transparent;
+    padding-left: 2px;
+
+}
+
+.icon-skill {
+    height: 60px;
+    width: 60px;
+    background-color: transparent;
+    padding-left: 2px;
+
+}

@@ -1,2 +1,0 @@
-# newprojectassignment
-assignment
